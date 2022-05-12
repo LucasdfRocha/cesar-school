@@ -1,3 +1,4 @@
+
 import os
 os.system("cls")
 
@@ -6,7 +7,7 @@ cont = 0
 
 for i in range (10):
 
-    lista.append( int(input("digite um numero: "))) #type: ignore
+    lista.append( int(input("digite um numero: ")))
       
 print("\n",lista)
 print(f" O menor numero da lista é {min(lista)}")

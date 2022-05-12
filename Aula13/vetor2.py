@@ -1,8 +1,6 @@
-lista = []
+lista = [1,2,3,4,5,6]
 
-for i in range (0,5):
-    
-    pergunta = (int(input("Escolha um numero: ")))
-    lista.append(pergunta) 
+teste = lista.index(2)
 
-print(lista)
+print(teste)
+
