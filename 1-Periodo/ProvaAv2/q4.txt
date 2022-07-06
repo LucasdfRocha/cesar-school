@@ -1,5 +1,0 @@
-erro1: cont = cont + 1
-erro2: for i in range (N)
-erro3: sobrenome = id_sobrenome
-erro4: fsaida.write(saida_str)
-erro5: fsaida.close()
