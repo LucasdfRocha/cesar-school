@@ -25,19 +25,17 @@
             }
             else if (vetor[j] == maior){
                 contador = contador + 1; 
-                }
+            }
              if (vetor[j] < menor){
                 menor = vetor[j];
                 
             }
             else if (vetor[j] == menor){
                 contadorMen = contadorMen + 1; 
-                }
-             
+                }        
         }
 
-        for (int i = 0; i < 13; i++)
-        {
+        for (int i = 0; i < 13; i++){
 
             printf("%d ",vetor[i]);
         }
